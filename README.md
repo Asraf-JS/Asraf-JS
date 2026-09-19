@@ -2,7 +2,7 @@
 
 ## Hi, I'm Asraf
 
-I'm a Microsoft Certified Trainer based in Malaysia, training corporate teams since 2008. I help people automate everyday work, build reports their managers actually use, and get real value from Copilot.
+I'm a Microsoft Certified Trainer based in Malaysia, with 18 years and more than 480 sessions of corporate training behind me. I help people automate everyday work, build reports their managers actually use, and get real value from Copilot.
 
 This is where participants in my courses find their manuals, practice files and lab exercises.
 
@@ -28,8 +28,17 @@ This is where participants in my courses find their manuals, practice files and 
 
 ### What I teach
 
-Power Automate · Power BI · Power Apps · Excel and VBA · Microsoft 365 Copilot · Google Workspace · Data storytelling
+| Area | Topics |
+|---|---|
+| Microsoft 365 and collaboration | Microsoft 365 end-user and power-user programmes, Teams, SharePoint Online, Outlook, OneNote, Word, PowerPoint, Microsoft Project, Visio |
+| Excel and automation | Excel Foundation to Advanced, PivotTables, Power Query and Power Pivot, dashboard and report design, Excel VBA from beginner to advanced, Google Sheets |
+| Power Platform | Power BI (full PL-300 curriculum and exam preparation), Power Automate for desktop and web, Power Apps, Microsoft Fabric |
+| Data analytics and storytelling | Data analytics foundations, analysis with Excel and Power BI, data storytelling with the BLUF framework, dashboard design, labs built on Malaysian open data |
+| AI and Copilot | Microsoft 365 Copilot adoption, Copilot in Excel, generative AI for business users, prompt design, AI-assisted presentation design, AI agent building, ChatGPT and Google Gemini for business |
+| Design and creative | Adobe Photoshop, Illustrator, InDesign, After Effects, Premiere, Animate and Captivate, infographics and visual presentation design |
+
+Every course comes as a complete package: teaching deck, participant manual or lab guide, practice datasets, and pre- and post-assessments. Classes are available face to face or virtually on Teams, Zoom or Webex.
 
 ### Training enquiries
 
-Ask your training provider to book a course, or connect with me through the LinkedIn link on this profile.
+Ask your training provider to book a course.
