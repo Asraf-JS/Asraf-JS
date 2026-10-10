@@ -18,6 +18,7 @@ This is where participants in my courses find their manuals, practice files and 
 | [Microsoft Power Automate for End Users](https://github.com/Asraf-JS/Microsoft-Power-Automate) | Two-day course: manual, practice files and copy-paste expressions |
 | [Microsoft 365 Copilot Workshop](https://github.com/Asraf-JS/M365-Copilot-Workshop) | Prompts, reference notes and sample datasets |
 | [Copilot Chat (Basic) Workshop](https://github.com/Asraf-JS/Copilot-Chat-Basic-Workshop) | Labs, prompts and sample files for getting real work done with Copilot Chat without the paid licence |
+| [AI for Workplace (Advanced)](https://github.com/Asraf-JS/AI-for-Workplace-Advanced) | Two-day course: build, test and govern AI assistants and workflows in Copilot, ChatGPT, Claude or Gemini, with labs, prompts and sample files |
 | [MS-4018: Draft, analyze, and present with Microsoft 365 Copilot](https://github.com/Asraf-JS/draft-analyze-and-present-with-microsoft-365-copilot) | Hands-on labs using Malaysian financial services scenarios |
 | [MS-4019: Transform your everyday business processes with agents](https://github.com/Asraf-JS/Transform-your-everyday-business-processes-with-agents) | Support labs for the course |
 | [AI Storytelling](https://github.com/Asraf-JS/AI_Storytelling) | Data storytelling with AI using the BLUF (Bottom Line Up Front) framework |
